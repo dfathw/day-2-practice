@@ -10,7 +10,6 @@ on:
       - 'src/**'
       - 'package.json'
     tags: ['v*.*.*']
-    # push:
 
   # Case C: setiap PR menuju main
   pull_request:
